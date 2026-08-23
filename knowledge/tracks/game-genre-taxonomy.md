@@ -4,7 +4,7 @@ id: game-genre-taxonomy
 title: 游戏类型全景：主流品类、子分类与独立开发者适配指南
 summary: 梳理市面上基本全部游戏类型及其子分类，并从独立游戏开发者角度评估各品类的可行性与风险，给出可落地的选型框架。
 type: track
-status: draft
+status: published
 authors:
   - wang-yida
 tags:
