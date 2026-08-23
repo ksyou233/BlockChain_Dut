@@ -1,9 +1,9 @@
 # Site update report
 
-Source commit: `a165d848fd3ad714f6acf5b0df78727935c51575`
+Source commit: `d3103de120b1a11939ec532379c4f9cbcc9c359b`
 Generator: `1.0.0`
 
-- Added: li-yafei
+- Added: game-genre-taxonomy
 - Changed: none
 - Deleted: none
 
